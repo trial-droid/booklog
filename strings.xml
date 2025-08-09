@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cahier de texte</string>
+    <string-array name="class_list">
+        <item>Classe 1</item>
+        <item>Classe 2</item>
+        <item>Classe 3</item>
+    </string-array>
+</resources>
